@@ -1,0 +1,1 @@
+# LogoGeneratorTest1
